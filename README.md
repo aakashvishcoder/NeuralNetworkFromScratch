@@ -22,4 +22,4 @@ This Architecture can be customized with many different loss functions and layer
 
    ```bash
    git clone https://github.com/aakashvishcoder/NeuralNetworkFromScratch.git
-   cd brain-tumor-classification
+   cd NeuralNetworkFromScratch
