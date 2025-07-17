@@ -21,5 +21,5 @@ This Architecture can be customized with many different loss functions and layer
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/brain-tumor-classification.git
+   git clone https://github.com/aakashvishcoder/NeuralNetworkFromScratch.git
    cd brain-tumor-classification
