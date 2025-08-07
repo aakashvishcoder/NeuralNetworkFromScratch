@@ -1,25 +1,11 @@
-# NeuralNetworkFromScratch
+# Project
 
-This repository contains code and a Neural Network architecture created purely using the numpy and math libraries.
+## General Process
 
----
+## Complications
 
-## Project Overview
+## Tech Stack
 
-This Architecture can be customized with many different loss functions and layers.
-
----
-
-## Features
-
-- Neural Network Script
-
----
-
-## Setup
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/aakashvishcoder/NeuralNetworkFromScratch.git
-   cd NeuralNetworkFromScratch
+```bash
+git clone [https://github.com/aakashvishcoder/NeuralNetworkFromScratch.git](https://github.com/aakashvishcoder/NeuralNetworkFromScratch.git)
+cd your-repo
